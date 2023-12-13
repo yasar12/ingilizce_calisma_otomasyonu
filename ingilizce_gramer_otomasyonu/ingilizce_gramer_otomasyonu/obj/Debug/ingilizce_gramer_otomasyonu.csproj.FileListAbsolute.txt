@@ -1,0 +1,13 @@
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\bin\Debug\ingilizce_gramer_otomasyonu.exe.config
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\bin\Debug\ingilizce_gramer_otomasyonu.exe
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\bin\Debug\ingilizce_gramer_otomasyonu.pdb
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.giris.resources
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.Properties.Resources.resources
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.csproj.GenerateResource.cache
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.exe
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.pdb
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.subject_selecter.resources
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.A1_konu_anlatımı.resources
+C:\Users\hello\source\repos\ingilizce_gramer_otomasyonu\ingilizce_gramer_otomasyonu\obj\Debug\ingilizce_gramer_otomasyonu.concept.resources
