@@ -1,1 +1,1 @@
-# ingilizce_calisma_otomasyonu
+# ingilizce_gramer_otomasyonu
